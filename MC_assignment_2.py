@@ -1,6 +1,8 @@
+
 # Anni Xiong
 # this script creates a histogram of angles between 0 and 90 degrees 
 # following a Gaussian distribution.
+
 
 import numpy as np
 import matplotlib.pyplot as plt
