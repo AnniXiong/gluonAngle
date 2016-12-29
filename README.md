@@ -1,4 +1,4 @@
-# Author
+# Anni Xiong
 
 # Description
 This program produces a histogarm of the angle that gluons flying off the interaction point which follows a Gaussian distribution 
